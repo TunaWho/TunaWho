@@ -12,4 +12,4 @@
 
 #### Knowledges 💻
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,php,laravel,aws,js,typescript,react,ipfs,vue,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,php,laravel,nodejs,aws,js,typescript,react,ipfs,vue,html)](https://skillicons.dev)
