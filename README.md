@@ -17,11 +17,3 @@
 #### Knowledges 💻
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-#### Recently I'm coding in...
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<a href="https://github.com/TunaWho"><img width=380px align="right" src="/metrics/plugin.languages.used.svg" alt="Planxnx"></a>
-<a href="https://github.com/TunaWho"><img width=410px align="left" src="/metrics/plugin.achivements.svg" alt="Planxnx"></a>
