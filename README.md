@@ -1,6 +1,5 @@
 <div>
-  <a href="https://github.com/TunaWho"><img width=300px align="center" src="/metrics/main.svg" alt="Vincent Nguyen"></a>
-  <a href="https://github.com/TunaWho"><img width=345px align="right" src='https://raw.githubusercontent.com/TunaWho/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
+<a href="https://github.com/TunaWho"><img width=345px align="left" src='https://raw.githubusercontent.com/TunaWho/github-stats-transparent/main/generated/languages.svg' alt="Planxnx" />
 </a>
 </div>
 
