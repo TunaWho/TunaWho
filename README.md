@@ -13,3 +13,10 @@
 #### Knowledges 💻
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,graphql,ipfs,nodejs,express,mongodb,js,typescript,react,nextjs,php,laravel,mysql,vue,vite,html,aws,linux)](https://skillicons.dev)
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TunaWho&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TunaWho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
