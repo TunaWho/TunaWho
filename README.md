@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 I’m currently working on Blockchain✌🏻
 - 🌱 I’m currently learning English, Frontend.
 - 💬 Ask me about anything related to Blockchain/Solidity/EVM or Vue/PHP/Laravel/Javascript/Typescript
-- 🤔 I’m looking for help in learning about security systems and hacking.
+- 🤔 I’m looking for help in learning about Cybersecurity and hacking.
 - ⚡ Fun fact: I ❤️ 🐶s and Gaming
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h2></summary>
